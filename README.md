@@ -33,12 +33,6 @@ The Clinic Booking System is a robust relational database solution designed to a
 - Doctor departments
 - Bill services
 
-## Entity Relationship Diagram
-
-![Clinic Booking System ERD](https://i.imgur.com/aBcXyZ0.png)
-
-*Note: This is a placeholder image URL. Replace with your actual ERD image link or path.*
-
 ## Installation and Setup
 
 ### Prerequisites
