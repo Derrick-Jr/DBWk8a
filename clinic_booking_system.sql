@@ -1,10 +1,6 @@
 -- Clinic Booking System Database
 -- A comprehensive database for managing a medical clinic's operations including
 -- patient information, doctor schedules, appointments, medical records, and billing.
-
--- Drop database if it exists (for clean setup)
-DROP DATABASE IF EXISTS clinic_booking_system;
-
 -- Create the database
 CREATE DATABASE clinic_booking_system;
 
