@@ -14,11 +14,6 @@ The Clinic Booking System is a robust relational database solution designed to a
 - **Billing & Insurance**: Complete financial tracking with insurance integration
 - **Prescription Management**: Digital prescription creation and tracking
 - **Feedback System**: Patient satisfaction monitoring
-
-## Database Schema
-
-The database consists of 25+ tables with properly defined relationships:
-
 ### Core Entities
 - Users (authentication)
 - Patients (demographic information)
